@@ -234,6 +234,7 @@
 
 * Web hosting
   * [Froxlor](https://froxlor.org/) - Easy to use panel for Linux with Nginx and PHP-FPM support.
+  * [HestiaCP](https://www.hestiacp.com/) - Hosting control panel with Nginx/Apache, ssh, Mysql, and PostgreSQL, etc, based on VestaCP.
   * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
   * [Sentora](http://sentora.org/) - Control panel for Linux, BSD, and Windows based on ZPanel.
   * [VestaCP](http://vestacp.com/) - Hosting panel for Linux but with Nginx.
